@@ -6,13 +6,13 @@ My name is Baudilio.
 💻 Learning Java Backend
 🌍 Learning English for software development
 
-# Current Goals
+## Current Goals
 
 - Learn Java and Spring Boot
 - Build backend projects
 - Improve my English
 - Get my first developer job
 
-# Projects
+## Projects
 
 Coming soon...
