@@ -2,9 +2,9 @@
 
 My name is Baudilio.
 
-Systems engineering student
-Learning Java Backend
-Learning English for software development
+🎓 Systems engineering student
+💻 Learning Java Backend
+🌍 Learning English for software development
 
 # Current Goals
 
